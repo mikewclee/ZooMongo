@@ -10,9 +10,5 @@
    
    * When the user clicks the Name button, the table should display the animal data sorted by name.
 
-* Good luck!
 
-### Hints
 
-* We don't want to keep adding to the table with each button click. We only want to show the new results.
-What can we do to the table to accomplish this?
